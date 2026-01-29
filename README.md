@@ -1,1 +1,1 @@
-# task9-nmap
+This task provided hands-on experience in network reconnaissance and vulnerability scanning using Nmap. It improved understanding of how attackers identify network weaknesses and how to secure network infrastructure.   # task9-nmap
